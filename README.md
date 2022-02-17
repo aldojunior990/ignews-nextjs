@@ -11,7 +11,7 @@ This app is a subscription news blog, developed during Rocketseat's Ignite cours
 
 
 <h1 align="center" display="flex">
-   <img height="500px" src=".github/tela.gif">
+   <img height="500px" src=".github/ignews.png">
 </h1>
 
 ## :computer: Tecnologias - Technologies 
